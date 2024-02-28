@@ -10219,8 +10219,8 @@ Light:
   m_Shape: 0
   m_Color: {r: 0.8113208, g: 0.7268118, b: 0.18828759, a: 1}
   m_Intensity: 5
-  m_Range: 4.5
-  m_SpotAngle: 30
+  m_Range: 5
+  m_SpotAngle: 40
   m_InnerSpotAngle: 20
   m_CookieSize: 10
   m_Shadows:
@@ -10257,13 +10257,13 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 2
+  m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 7e-45, z: 3.2767e-41, w: 0}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 4.6e-44, z: 3.8164e-41, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 10
@@ -10337,8 +10337,8 @@ Light:
   m_Shape: 0
   m_Color: {r: 0.8113208, g: 0.7268118, b: 0.18828759, a: 1}
   m_Intensity: 5
-  m_Range: 4.5
-  m_SpotAngle: 30
+  m_Range: 5
+  m_SpotAngle: 54.701485
   m_InnerSpotAngle: 20
   m_CookieSize: 10
   m_Shadows:
@@ -10375,13 +10375,13 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 2
+  m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 6e-45, z: 6.7959e-41, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 4.352133e+27}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 10

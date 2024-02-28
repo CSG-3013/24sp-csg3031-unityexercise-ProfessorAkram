@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Levels/02_Park_YourLastName.unity
+    guid: 2482d0bef4b2f8f418eed643e88f2557
+  - enabled: 1
+    path: Assets/Scenes/Menus/end_scene.unity
+    guid: a1cdd118d794d9f4fa88cd58361db508
+  - enabled: 1
+    path: Assets/Scenes/Menus/start_scene.unity
+    guid: 8dff33b46d68c6447936afac0c583669
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}
